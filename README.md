@@ -2,9 +2,9 @@
 
 Học kỳ 3, Năm học: 2025-2026
 
-**Họ tên**: ...
+**Họ tên**: Lý Gia Bảo  
 
-**MSSV**: ...
+**MSSV**: DC25V7x601
 
-**Lớp HP**: CT275DC01.
+**Lớp HP**: CT275
 
